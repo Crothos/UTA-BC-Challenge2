@@ -1,2 +1,3 @@
 # UTA-BC-Challenge2
-Second Challenge for UT Austin Bootcamp
+Second Challenge for UT Austin Dev Bootcamp
+MIT License
