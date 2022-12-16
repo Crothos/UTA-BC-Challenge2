@@ -1,6 +1,6 @@
 /* Universal Selector */
 * {
-    box-sizing: border-box;
+    box-sizing: border-box; 
     padding: 0;
     margin: 0;
 }
@@ -8,7 +8,7 @@
 
 /* Body Selector */
 body {
-    background-color: #d9dcd6;
+    background-color: #dfe2ec;
 }
 
 
@@ -16,13 +16,15 @@ body {
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: #2a607c;
+    background-color: #454a4d;
     color: #ffffff;
 }
 
 .header h1 {
     display: inline-block;
     font-size: 48px;
+    background-color:#ffffff;
+    color:#454a4d
 }
 
 .header nav {
@@ -54,7 +56,7 @@ p {
     height: 200px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-image: url("https://static.vecteezy.com/system/resources/previews/000/829/812/original/binary-code-banner-vector.jpg");
     background-size: cover;
     background-position: center;
 }
