@@ -176,3 +176,8 @@ p {
     font-weight: bold;
     padding: .25em;
 }
+/* Media Queries & Screen Size */
+@media screen and (max-width: 727px) {
+    .header { padding: 20px 20px 70px 0px;
+    }
+}
