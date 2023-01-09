@@ -46,7 +46,7 @@ body {
     animation: glow 1s ease-in-out infinite alternate;
 }
 
-@-webkit-keyframes glow {
+@keyframes glow {
     from {
       text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #ffffff;
     }
@@ -165,9 +165,7 @@ p {
     list-style-type: none;
     
     }
-#contact-list li {
-    
-}
+
 #contact-list li a {
     color:#104766;
     text-decoration: none;
